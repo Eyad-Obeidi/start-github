@@ -1,1 +1,3 @@
 # start-github
+
+## project notes
